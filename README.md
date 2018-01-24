@@ -154,10 +154,12 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
       	}  
       delay(5000);
 	}
+
 <br/>
 <a name="images"></a>
 #### Images
 ---
+
 ![](img/1.jpg)
 ![](img/2.jpg)
 ![](img/3.jpg)

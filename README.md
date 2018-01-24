@@ -56,7 +56,6 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
 - IFTTT
 - Arduino IDE
 
-<br/>
 <a name="source-code"></a>
 #### Source code
 ---

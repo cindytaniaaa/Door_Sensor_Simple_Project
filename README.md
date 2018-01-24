@@ -17,13 +17,15 @@ by : Iot Squad
 <a name="team-members"></a>
 #### Team Members
 ---
-* Cindy Tania 
-* Nandini
-* Hade Morray
+<br/>
+- Cindy Tania 
+- Nandini
+- Hade Morray
 <br/>
 <a name="background-project"></a>
 #### Background Project
 ---
+<br/>
 This happens in every big city, most our daily activities we do outside the home.  In the working time, there has a lot of empty houses that has been left by their owner. Moreover for the holiday season like Eid, Christmas, or New Year. The empty house is an easy target for thieves, especially homes without adequate security systems. 
 
 Many modes are performed by thieves to carry out the action. Starting from knocking the door of the house, pretend to ask the address. If there is no answer and is sure the house is empty, they will immediately disassemble the door of the house and take the valuables things. In addition there are also pretend as PLN officers, cable network technicians or monitoring cameras (CCTV), garden rearrangers, gas stove inspectors, and various other modes. As the crime of crime or theft that can occur in the surrounding environment. For example the theft of a house that rife in our country. Thieves who often steal homeowners' valuables by breaking into the house and often damaging locks on doors.
@@ -42,6 +44,15 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
 <a name="required-equipment"></a>
 #### Required Equipment
 ---
+- ESP-12E module
+- USB Cable
+- 4 leds
+- 4 resistor (220Ω)
+- Wires
+- Reed switch
+- power
+- IFTTT
+- Arduino IDE
 <br/>
 <a name="source-code"></a>
 #### Source code

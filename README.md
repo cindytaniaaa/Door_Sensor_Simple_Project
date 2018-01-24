@@ -14,7 +14,7 @@ by : Iot Squad
 * [Project Demo](#project-demo)
 * [Conclution and Suggestion](#conclution-suggestion)
 
-<br/>
+
 <a name="team-members"></a>
 #### Team Members
 ---
@@ -23,7 +23,7 @@ by : Iot Squad
 - Nandini
 - Hade Morray
 
-<br/>
+
 <a name="background-project"></a>
 #### Background Project
 ---

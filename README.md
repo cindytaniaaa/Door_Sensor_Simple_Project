@@ -10,7 +10,7 @@ by : Iot Squad
 * [Required Equipment](#required-equipment)
 * [Schematics](#schematics)
 * [Source Code](#source-code)
-* [Images](#images)
+* [Images](#imagess)
 * [Project Demo](#project-demo)
 * [Conclution and Suggestion](#conclution-suggestion)
 <br/>
@@ -155,10 +155,9 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
       delay(5000);
 	}
 <br/>
-<a name="images"></a>
+<a name="imagess"></a>
 #### Images
 ---
-
 ![](img/1.jpg)
 ![](img/2.jpg)
 ![](img/3.jpg)

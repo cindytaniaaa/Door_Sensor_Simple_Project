@@ -1,9 +1,9 @@
-#Door Sensor Project
+# Door Sensor Project
 by : Iot Squad
 <br/>
 
 
-####Table of Contents
+#### Table of Contents
 * [Team Members](#team-members)
 * [Background Project](#background-project)
 * [How the tool works](#tool-works)
@@ -16,7 +16,7 @@ by : Iot Squad
 
 <br/>
 <a name="team-members"></a>
-####Team Members
+#### Team Members
 ___
 * Cindy Tania 
 * Nandini
@@ -24,7 +24,7 @@ ___
 
 <br/>
 <a name="background-project"></a>
-####Background project
+#### Background project
 ---
 This happens in every big city, most our daily activities we do outside the home.  In the working time, there has a lot of empty houses that has been left by their owner. Moreover for the holiday season like Eid, Christmas, or New Year. The empty house is an easy target for thieves, especially homes without adequate security systems. 
 
@@ -35,7 +35,7 @@ With the door security system that we made, automatically the door can be monito
 Besides sending a message, this IoT can also turn off and turn on the lights automatically.
 <br/>
 <a name="tool-works"></a>
-####How the tool works
+#### How the tool works
 ---
 Reed switch using GPIO 5 pin on esp8266. The esp8266 tool will connect with the access point device to connect to the internet network by entering our SSID and WIFI password. API KEY provided by IFTTT that is used to connect the device esp8266 with smartphones through LINE and Telegram applications.
 
@@ -43,7 +43,7 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
 
 <br/>
 <a name="source-code"></a>
-####Source Code
+#### Source Code
 ------
 
 	#include <ESP8266WiFi.h>
@@ -144,7 +144,7 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
 	}
 <br/>
 <a name="images"></a>
-####Images
+#### Images
 ------
 
 ![](img/1.jpg)
@@ -153,12 +153,12 @@ Reed Switch sensor works in a very simple way, if the surface of the sensor expo
 
 <br/>
 <a name="project-demo"></a>
-####Project Demo
+#### Project Demo
 ---
 [![Door Sensor Project](img/4.jpg)](https://youtu.be/p2kzqckUG80)
 
 <a name="conclution-suggestion"></a>
-####Conslution and Suggestion
+#### Conslution and Suggestion
 ---
 Conclution	: <br/>
 From the test results and analysis design of home door security system based IoT with esp8266 equipped it can be concluded as follows: <br/>
